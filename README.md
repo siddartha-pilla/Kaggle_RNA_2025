@@ -128,3 +128,12 @@ val_loss   : 7.29
 - **Mixed precision & gradient accumulation** to enable larger batch sizes within GPU memory  
 
 > With more compute and data, this architecture can reach sub-Å accuracy and robust global fold prediction.
+
+
+
+## Acknowledgements
+
+- **[Stanford RNA Folding Competition](https://www.kaggle.com/competitions/stanford-rna-3d-folding)** – for the dataset and problem setup  
+- **EGNN** – based on [Satorras et al., 2021: "E(n) Equivariant Graph Neural Networks"](https://arxiv.org/abs/2102.09844)  
+- **[US-align](https://zhanggroup.org/US-align/)** – used for evaluating structural similarity via TM-score  
+
