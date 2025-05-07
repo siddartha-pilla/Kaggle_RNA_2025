@@ -40,7 +40,7 @@ This repository contains Jupyter notebooks that implement a hybrid **Transformer
 ## 📂 Dataset Links
 
 1. [Synthetic RNA + Ribo + UW Dataset (by siddarthapilla)](https://www.kaggle.com/datasets/siddarthapilla/synthetic-rna-rib-uw-datasets)  
-2. [FisherMarks RNA Dataset](https://www.kaggle.com/datasets/fishermarks/dataset)
+2. [FisherMarks RNA Dataset](https://www.kaggle.com/datasets/fishermarks/dataset) (We use this dataset)
 
 
 ## Usage
